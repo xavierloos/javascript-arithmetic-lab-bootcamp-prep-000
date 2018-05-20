@@ -25,7 +25,7 @@ function makeInt(n) {
 }
 
 function makeInt(n) {
-  var n=parseInt('2',10)
+  parseInt('2',10)
  
 }
 function preserveDecimal(n) {
